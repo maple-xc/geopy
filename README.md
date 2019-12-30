@@ -1,6 +1,6 @@
 # ![](https://github.com/geopyteam/geopy/blob/master/logo.png)
 # GeoPy aims at facilitating seismic data analysis in Python.
-# <A new version has been created as [cognitivegeo](https://github.com/geopyteam/cognitivegeo) with more features including 3D visualization and so on.>
+# <For PIP installation without conflicting with an existing geopy package, a new version has been created as [cognitivegeo](https://github.com/geopyteam/cognitivegeo) with more features including 3D visualization and so on.>
 
 # To run it, simply
 #     1. download and unzip the codes to be searchable by your python path
